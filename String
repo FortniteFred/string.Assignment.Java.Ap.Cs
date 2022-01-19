@@ -1,0 +1,18 @@
+class Main {
+  public static void main(String[] args) {
+
+   
+    String tempString1 = "He";
+    String tempString2 = "ll";
+    String tempString3 = "o";
+
+    String finalWord = tempString1 +tempString2 + tempString3;
+
+    System.out.println(finalWord);
+
+  
+    //simple addition of characters
+
+  }
+}
+//hello has 5 characters
